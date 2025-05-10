@@ -1,0 +1,8 @@
+streamlit>=1.22.0
+torch>=1.13.1
+torchvision>=0.14.1
+Pillow>=9.0.1
+numpy>=1.21.6
+scikit-learn>=1.0.0
+streamlit-cropper>=0.1.0
+git+https://github.com/openai/CLIP.git
